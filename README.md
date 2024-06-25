@@ -4,29 +4,29 @@ Este projeto demonstra como configurar um ambiente de desenvolvimento TypeScript
 
 ## Estrutura do Projeto
 
-/meu-projeto
-|-- /src
-| |-- /classes
-| | |-- /interfaces
-| | | |-- cart-item.ts
-| | | |-- customer-protocol.ts
-| | | |-- messaging-protocol.ts
-| | | |-- order-status.ts
-| | | |-- persistency-protocol.ts
-| | | |-- shopping-cart-protocol.ts
-| | |-- customer.ts
-| | |-- discount.ts
-| | |-- order.ts
-| | |-- product.ts
-| | |-- shopping-cart.ts
-|-- /tests
-| |-- order.test.ts
-| |-- shopping-cart.test.ts
-|-- .gitignore
-|-- jest.config.js
-|-- package.json
-|-- README.md
-|-- tsconfig.json
+- /meu-projeto
+- |-- /src
+- | |-- /classes
+- | | |-- /interfaces
+- | | | |-- cart-item.ts
+- | | | |-- customer-protocol.ts
+- | | | |-- messaging-protocol.ts
+- | | | |-- order-status.ts
+- | | | |-- persistency-protocol.ts
+- | | | |-- shopping-cart-protocol.ts
+- | | |-- customer.ts
+- | | |-- discount.ts
+- | | |-- order.ts
+- | | |-- product.ts
+- | | |-- shopping-cart.ts
+- |-- /tests
+- | |-- order.test.ts
+- | |-- shopping-cart.test.ts
+- |-- .gitignore
+- |-- jest.config.js
+- |-- package.json
+- |-- README.md
+- |-- tsconfig.json
 
 ## Pré-requisitos
 
